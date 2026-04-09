@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.2)  9 APR 2026 19:03
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.2)  9 APR 2026 19:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -725,51 +725,15 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip79
-) (c:/texlive/2026/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip80
-\cftbeforetoctitleskip=\skip81
-\cftaftertoctitleskip=\skip82
-\cftbeforepartskip=\skip83
-\cftpartnumwidth=\skip84
-\cftpartindent=\skip85
-\cftbeforesecskip=\skip86
-\cftsecindent=\skip87
-\cftsecnumwidth=\skip88
-\cftbeforesubsecskip=\skip89
-\cftsubsecindent=\skip90
-\cftsubsecnumwidth=\skip91
-\cftbeforesubsubsecskip=\skip92
-\cftsubsubsecindent=\skip93
-\cftsubsubsecnumwidth=\skip94
-\cftbeforeparaskip=\skip95
-\cftparaindent=\skip96
-\cftparanumwidth=\skip97
-\cftbeforesubparaskip=\skip98
-\cftsubparaindent=\skip99
-\cftsubparanumwidth=\skip100
-\cftbeforeloftitleskip=\skip101
-\cftafterloftitleskip=\skip102
-\cftbeforefigskip=\skip103
-\cftfigindent=\skip104
-\cftfignumwidth=\skip105
-\c@lofdepth=\count370
-\c@lotdepth=\count371
-\cftbeforelottitleskip=\skip106
-\cftafterlottitleskip=\skip107
-\cftbeforetabskip=\skip108
-\cfttabindent=\skip109
-\cfttabnumwidth=\skip110
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 39.
  (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
  (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count372
-\g__pdfannot_backend_int=\count373
-\g__pdfannot_backend_link_int=\count374
+\g__graphics_track_int=\count370
+\g__pdfannot_backend_int=\count371
+\g__pdfannot_backend_link_int=\count372
 ))
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
  (c:/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
@@ -777,13 +741,13 @@ Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 ) (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 )
-\l__xeCJK_tmp_int=\count375
+\l__xeCJK_tmp_int=\count373
 \l__xeCJK_tmp_box=\box140
 \l__xeCJK_tmp_dim=\dimen328
-\l__xeCJK_tmp_skip=\skip111
-\g__xeCJK_space_factor_int=\count376
-\l__xeCJK_begin_int=\count377
-\l__xeCJK_end_int=\count378
+\l__xeCJK_tmp_skip=\skip80
+\g__xeCJK_space_factor_int=\count374
+\l__xeCJK_begin_int=\count375
+\l__xeCJK_end_int=\count376
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -792,23 +756,23 @@ Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip112
-\c__xeCJK_none_node=\count379
-\g__xeCJK_node_int=\count380
+\l__xeCJK_last_skip=\skip81
+\c__xeCJK_none_node=\count377
+\g__xeCJK_node_int=\count378
 \c__xeCJK_CJK_node_dim=\dimen329
 \c__xeCJK_CJK-space_node_dim=\dimen330
 \c__xeCJK_default_node_dim=\dimen331
 \c__xeCJK_CJK-widow_node_dim=\dimen332
 \c__xeCJK_normalspace_node_dim=\dimen333
-\c__xeCJK_default-space_node_skip=\skip113
-\l__xeCJK_ccglue_skip=\skip114
-\l__xeCJK_ecglue_skip=\skip115
-\l__xeCJK_punct_kern_skip=\skip116
+\c__xeCJK_default-space_node_skip=\skip82
+\l__xeCJK_ccglue_skip=\skip83
+\l__xeCJK_ecglue_skip=\skip84
+\l__xeCJK_punct_kern_skip=\skip85
 \l__xeCJK_indent_box=\box141
-\l__xeCJK_last_penalty_int=\count381
+\l__xeCJK_last_penalty_int=\count379
 \l__xeCJK_last_bound_dim=\dimen334
 \l__xeCJK_last_kern_dim=\dimen335
-\l__xeCJK_widow_penalty_int=\count382
+\l__xeCJK_widow_penalty_int=\count380
 
 LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 (template)           argument(s) on line 2396.
@@ -832,28 +796,28 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \l__xeCJK_margin_dim=\dimen352
 \l__xeCJK_minimum_bound_dim=\dimen353
 \l__xeCJK_kerning_margin_dim=\dimen354
-\g__xeCJK_family_int=\count383
-\l__xeCJK_fam_int=\count384
-\g__xeCJK_fam_allocation_int=\count385
-\l__xeCJK_verb_case_int=\count386
-\l__xeCJK_verb_exspace_skip=\skip117
+\g__xeCJK_family_int=\count381
+\l__xeCJK_fam_int=\count382
+\g__xeCJK_fam_allocation_int=\count383
+\l__xeCJK_verb_case_int=\count384
+\l__xeCJK_verb_exspace_skip=\skip86
  (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
  (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count387
-\l__fontspec_language_int=\count388
-\l__fontspec_strnum_int=\count389
-\l__fontspec_tmp_int=\count390
-\l__fontspec_tmpa_int=\count391
-\l__fontspec_tmpb_int=\count392
-\l__fontspec_tmpc_int=\count393
-\l__fontspec_em_int=\count394
-\l__fontspec_emdef_int=\count395
-\l__fontspec_strong_int=\count396
-\l__fontspec_strongdef_int=\count397
+\l__fontspec_script_int=\count385
+\l__fontspec_language_int=\count386
+\l__fontspec_strnum_int=\count387
+\l__fontspec_tmp_int=\count388
+\l__fontspec_tmpa_int=\count389
+\l__fontspec_tmpb_int=\count390
+\l__fontspec_tmpc_int=\count391
+\l__fontspec_em_int=\count392
+\l__fontspec_emdef_int=\count393
+\l__fontspec_strong_int=\count394
+\l__fontspec_strongdef_int=\count395
 \l__fontspec_tmpa_dim=\dimen355
 \l__fontspec_tmpb_dim=\dimen356
 \l__fontspec_tmpc_dim=\dimen357
@@ -861,8 +825,8 @@ Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count398
-\l__xeCJK_listings_flag_int=\count399
+\l__xeCJK_listings_max_char_int=\count396
+\l__xeCJK_listings_flag_int=\count397
 ) (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
@@ -912,7 +876,116 @@ Package fontspec Info:
 (fontspec)             <->"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
- (./main.aux)
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:108: LaTeX Error: Command \cfttoctitlefont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \renewcommand{\cfttoctitlefont}
+                                     {\hfill\sectiontitlefont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:109: LaTeX Error: Command \cftaftertoctitle undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \renewcommand{\cftaftertoctitle}
+                                      {\hfill}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:110: LaTeX Error: Command \cftlottitlefont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \renewcommand{\cftlottitlefont}
+                                     {\hfill\sectiontitlefont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:111: LaTeX Error: Command \cftafterlottitle undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \renewcommand{\cftafterlottitle}
+                                      {\hfill}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:112: LaTeX Error: Command \cftloftitlefont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \renewcommand{\cftloftitlefont}
+                                     {\hfill\sectiontitlefont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:113: LaTeX Error: Command \cftafterloftitle undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 \renewcommand{\cftafterloftitle}
+                                      {\hfill}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:114: LaTeX Error: Command \cftsecfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 \renewcommand{\cftsecfont}
+                                {\maintextfont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:115: LaTeX Error: Command \cftsubsecfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 \renewcommand{\cftsubsecfont}
+                                   {\maintextfont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/86158/Desktop/2026-National-College-Student-Statistical-Modeling-Competition/main.tex:116: LaTeX Error: Command \cftsubsubsecfont undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 \renewcommand{\cftsubsubsecfont}
+                                      {\maintextfont}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
@@ -935,7 +1008,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
 LaTeX Font Info:    ... okay on input line 184.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 184.
 LaTeX Font Info:    ... okay on input line 184.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -970,14 +1042,16 @@ LaTeX Font Info:    ... okay on input line 184.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count400
+\c@lstlisting=\count398
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 184.
-(./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 Package fontspec Info: 
@@ -1064,32 +1138,41 @@ Package fontspec Info:
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"SimHei/OT:script=hani;language=dflt;embolden=4;"
 
- [1
+[1
 
-] [2] [3] (./main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
- (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
- (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4])
+] [2] [3]
+No file main.toc.
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [5] (./main.lot)
+[4]
+No file main.lot.
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [6] (./main.lof)
+[5]
+No file main.lof.
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [7]
+[6]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 227.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 227.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Reference `fig:timeline' on page 1 undefined on input line 227.
+
 File: 政策时间线.png Graphic file (type bmp)
 <政策时间线.png>
- [1]
+[1]
+
+LaTeX Warning: Reference `fig:framework' on page 2 undefined on input line 238.
+
 File: 全文框架.png Graphic file (type bmp)
 <全文框架.png>
 
@@ -1118,10 +1201,75 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 
- [2] [3] [4]
+
+LaTeX Warning: Citation `杜晓荣2023' on page 2 undefined on input line 251.
+
+
+LaTeX Warning: Citation `王彦林2023' on page 2 undefined on input line 251.
+
+
+LaTeX Warning: Citation `Sen2001' on page 2 undefined on input line 251.
+
+
+LaTeX Warning: Citation `张浩然2020' on page 2 undefined on input line 251.
+
+[2]
+
+LaTeX Warning: Citation `Distinguin2016' on page 3 undefined on input line 255.
+
+
+LaTeX Warning: Citation `吴伟霄2023' on page 3 undefined on input line 255.
+
+
+LaTeX Warning: Citation `张芳2023' on page 3 undefined on input line 255.
+
+
+LaTeX Warning: Citation `费为银2023' on page 3 undefined on input line 255.
+
+[3]
+
+LaTeX Warning: Citation `Amel-Zadeh2018' on page 4 undefined on input line 259.
+
+
+LaTeX Warning: Citation `花拥军2020' on page 4 undefined on input line 259.
+
+
+LaTeX Warning: Citation `阮刚铭2019' on page 4 undefined on input line 259.
+
+
+LaTeX Warning: Citation `赵红建2016' on page 4 undefined on input line 259.
+
+
+LaTeX Warning: Citation `Blankespoor2020' on page 4 undefined on input line 263.
+
+
+LaTeX Warning: Citation `曾庆生2018' on page 4 undefined on input line 263.
+
+
+LaTeX Warning: Citation `Kristian2015' on page 4 undefined on input line 263.
+
+[4]
+
+LaTeX Warning: Citation `乔鹏程2023' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Citation `花拥军2020' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Citation `谢诗蕾2022' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Citation `张璇2022' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Citation `晓芳2021' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `fig:mechanism' on page 5 undefined on input line 273.
+
 File: 理论机制图.png Graphic file (type bmp)
 <理论机制图.png>
- [5]
+[5]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "SimSun/I" (it probably doesn't
@@ -1150,16 +1298,83 @@ Package fontspec Info:
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"SimSun/OT:script=hani;language=dflt;embolden=4;"
 
- [6] [7] [8] [9]
+ [6] [7]
+
+LaTeX Warning: Reference `tab:vocabulary' on page 8 undefined on input line 351.
+
+[8]
+
+LaTeX Warning: Reference `tab:variable_definition' on page 9 undefined on input line 381.
+
+[9]
 File: 指标体系图.png Graphic file (type bmp)
 <指标体系图.png>
  [10]
+
+LaTeX Warning: Reference `tab:descriptive_stats' on page 11 undefined on input line 426.
+
+
+LaTeX Warning: Reference `fig:boxplot' on page 11 undefined on input line 449.
+
 File: 箱线图.png Graphic file (type bmp)
 <箱线图.png>
- [11] [12] [13] [14] [15]
+
+LaTeX Warning: Reference `tab:baseline_regression' on page 11 undefined on input line 462.
+
+
+LaTeX Warning: Reference `tab:baseline_regression' on page 11 undefined on input line 462.
+
+
+LaTeX Warning: Reference `tab:baseline_regression' on page 11 undefined on input line 462.
+
+[11]
+
+LaTeX Warning: Reference `tab:baseline_regression' on page 12 undefined on input line 464.
+
+
+LaTeX Warning: Reference `tab:robustness_tests' on page 12 undefined on input line 507.
+
+[12]
+
+LaTeX Warning: Reference `tab:robustness_tests' on page 13 undefined on input line 551.
+
+[13]
+
+LaTeX Warning: Reference `tab:robustness_tests' on page 14 undefined on input line 554.
+
+
+LaTeX Warning: Reference `tab:group_regression' on page 14 undefined on input line 562.
+
+
+LaTeX Warning: Reference `tab:group_regression' on page 14 undefined on input line 564.
+
+[14] [15]
+
+LaTeX Warning: Reference `fig:heatmap' on page 16 undefined on input line 608.
+
 File: 热力图.png Graphic file (type bmp)
 <热力图.png>
- [16] [17] [18]
+
+LaTeX Warning: Reference `tab:group_regression' on page 16 undefined on input line 618.
+
+
+LaTeX Warning: Reference `tab:mechanism' on page 16 undefined on input line 622.
+
+[16]
+
+LaTeX Warning: Reference `tab:mechanism' on page 17 undefined on input line 671.
+
+[17]
+
+LaTeX Warning: Reference `tab:mechanism' on page 18 undefined on input line 673.
+
+
+LaTeX Warning: Reference `tab:mechanism' on page 18 undefined on input line 675.
+
+
+LaTeX Warning: Reference `fig:conclusion' on page 18 undefined on input line 679.
+
+[18]
 File: 结论示意图.png Graphic file (type bmp)
 <结论示意图.png>
  [19]
@@ -1184,16 +1399,32 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AF0A733DB52C1D79F6696EB353B14959;3245.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  AF0A733DB52C1D79F6696EB353B14959;3245.
+
+Package lastpage Warning: Rerun to get the references right on input line 729.
+
  ) 
 Here is how much of TeX's memory you used:
- 32124 strings out of 468168
- 687159 string characters out of 5436525
- 1146148 words of memory out of 5000000
- 60293 multiletter control sequences out of 15000+600000
+ 31837 strings out of 468168
+ 682759 string characters out of 5436525
+ 1138700 words of memory out of 5000000
+ 60022 multiletter control sequences out of 15000+600000
  633580 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,15n,115p,1092b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (29 pages).
+Output written on main.pdf (28 pages).
