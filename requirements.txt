@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+statsmodels
+patsy
+scikit-learn
+xgboost
+shap
+ipython
+jupyter
